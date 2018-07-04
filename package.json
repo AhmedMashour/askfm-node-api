@@ -1,0 +1,25 @@
+{
+  "name": "askfm-node-api",
+  "version": "1.0.4",
+  "description": "ASK.FM Unofficial Nodejs API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmed Mashhour",
+  "license": "GNU",
+  "dependencies": {
+    "co": "^4.6.0",
+    "jsonfile": "^4.0.0",
+    "request": "^2.87.0"
+  },
+  "keywords": [
+    "api",
+    "askfm",
+    "ask.fm",
+    "nodejs",
+    "node-askfm-api",
+    "social",
+    "social media"
+  ]
+}
